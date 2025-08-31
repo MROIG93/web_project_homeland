@@ -3,6 +3,6 @@
 @import url(../blocks/header.css);
 @import url(../blocks/main.css);
 @import url(../blocks/footer.css);
-@import url(../vendor/fonts/);
+@import url(../vendor/fonts.css);
 @import url(../vendor/fonts.css/Inter-Black.woff2);
 @import url(../vendor/fonts.css/Inter-Regular.woff2);
